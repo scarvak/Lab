@@ -1,0 +1,49 @@
+{
+	"id": "e1fd4690-d8e6-48f2-920b-8e06ae6470cb",
+	"name": "PSE_Collection1",
+	"allTests": [],
+	"timestamp": "2019-12-04T19:36:19.824Z",
+	"collection_id": "9efb518b-7afe-4849-ad6d-f09ca994b61f",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "0",
+	"data": [],
+	"delay": 2000,
+	"count": 3,
+	"collection": {
+		"id": "9efb518b-7afe-4849-ad6d-f09ca994b61f",
+		"name": "PSE_Collection1",
+		"description": null,
+		"auth": null,
+		"events": null,
+		"variables": null,
+		"order": [
+			"202d76b4-441a-47d9-a517-116d0cbc0e8c",
+			"b4d901db-fd9f-4099-801c-5aab168a88a8",
+			"7f8e51ca-d63b-4471-9e36-fa18b375f954"
+		],
+		"folders_order": [],
+		"owner": "0",
+		"favorite": false,
+		"type": "collection",
+		"depth": 0
+	},
+	"folder": null,
+	"environment": null,
+	"globals": null,
+	"results": [],
+	"totalPass": 0,
+	"totalFail": 0,
+	"totalTime": 0,
+	"lifecycle": "done",
+	"requests": [
+		{
+			"name": "reqres1-get-User2",
+			"id": "202d76b4-441a-47d9-a517-116d0cbc0e8c",
+			"url": "",
+			"time": 0,
+			"testPassFailCounts": {}
+		}
+	],
+	"synced": false
+}

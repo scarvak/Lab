@@ -1,0 +1,38 @@
+
+
+JSON Format - Key Value Pair
+
+{ "emp" : [
+	{ "uN" : "KK1", "uE" : "k1@k.com"},
+	{ "uN" : "KK2", "uE" : "k2@k.com"},
+	{ "uN" : "KK3", "uE" : "k3@k.com"},
+	{ "uN" : "KK4", "uE" : "k4@k.com"},
+	]
+}
+
+
+
+XML Format
+<emps>
+	<emp>
+		<uN>kk1</uN>
+		<uE>k1@k.com</uE>
+	</emp>
+
+	<emp>
+		<uN>kk2</uN>
+		<uE>k2@k.com</uE>
+	</emp>
+
+	<emp>
+		<uN>kk3</uN>
+		<uE>k3@k.com</uE>
+	</emp>
+
+	<emp>
+		<uN>kk4</uN>
+		<uE>k4@k.com</uE>
+	</emp>
+
+
+</emps>
